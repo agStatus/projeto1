@@ -39,5 +39,17 @@ section#noticias ul li{
 	height: 350px;
 	background: gray;
 }
-
-
+section#noticias img{
+	text-align: center;
+	height: 100px;
+	width: 100%;
+	box-shadow: 5px 0px 0px 0px #00000030;
+}
+section#noticias .categoria{
+	text-align: center;
+}
+section#noticias h2{
+	font-size: 35px;
+	color: #333333;
+	text-align: center;
+}
