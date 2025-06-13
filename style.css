@@ -47,9 +47,20 @@ section#noticias img{
 }
 section#noticias .categoria{
 	text-align: center;
+	background: #900;
+	color: #fff;
+	display: block;
+	padding: 5px 0;
 }
 section#noticias h2{
 	font-size: 35px;
 	color: #333333;
 	text-align: center;
+}
+section#noticias h3{
+	text-align: center;	
+	font-size: 35px;
+	font-family: Arial;
+	margin: 25px 0;
+	text-transform: uppercase;
 }
