@@ -92,4 +92,15 @@ section#projetos ul{
 }
 section#projetos ul li{
 	overflow: hidden;
+	height: 450px;
+	border: 1px solid black;
+	margin: 10px;
+	position: relative;
+}
+section#projetos ul li img{
+
+}
+section#projetos ul li h3{
+	position: absolute;
+	bottom: 30px;
 }
